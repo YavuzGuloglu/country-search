@@ -1,6 +1,6 @@
 # Country-Search
 
-- Country search adlı uygulama. React JavaScript kütüphanesi ile geliştrilimiştir. Uygulamada ülkeler liste halinde gelmektedir. Arama işlemi yapılabilmektedir. İstenen ülkeye tıklanıldığunda ülke hakkında bilgiler bulunmaktadır.
+- Country search adlı uygulama. React JavaScript kütüphanesi ile geliştrilimiştir. Uygulamada ülkeler liste halinde gelmektedir. Arama işlemi yapılabilmektedir. İstenen ülkeye tıklanıldığında ülke hakkında bilgiler bulunmaktadır.
 
 
 ---
