@@ -4,12 +4,12 @@
 
 
 ---
-> ![](https://imgyukle.com/i/aaNkAh)
+> ![](https://i.imgyukle.com/2020/12/28/aaNkAh.jpg)
 ---
 
 
 
 ---
-> ![](https://imgyukle.com/i/aaNP2M)
+> ![](https://i.imgyukle.com/2020/12/28/aaNP2M.jpg)
 ---
 
