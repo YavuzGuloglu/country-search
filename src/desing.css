@@ -1,0 +1,6 @@
+div.list {
+    opacity: 1.0;
+ }
+ div.list:hover {
+    opacity: 0.7;  
+ }
